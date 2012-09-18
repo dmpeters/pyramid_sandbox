@@ -1,3 +1,3 @@
 ### Pyramid Sandbox
 
-Just a place for me to sture pyramid scripts, tutorials, and etc... as I learn.
+Just a sandbox of Pyramid tuts, scripts, stuff and etc... as I learn.
